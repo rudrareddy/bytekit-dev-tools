@@ -29,8 +29,8 @@ https://bytekit.in
 
 ## Try the Tools
 
-https://bytekit.in/json-formatter
-https://bytekit.in/css-formatter
+- https://bytekit.in/json-formatter
+- https://bytekit.in/css-formatter
 https://bytekit.in/js-formatter
 https://bytekit.in/html-formatter
 https://bytekit.in/regex-tester
