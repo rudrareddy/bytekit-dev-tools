@@ -18,12 +18,34 @@ https://bytekit.in
 - Hash Generator
 - URL Encoder
 - Markdown Previewer
+- PDF Page Editor
+- XML Tool Suite
+- Image Resizer
+- HTTP Request Builder
+- JSON Comparison
+- CSS Minifier
+- Color Converter
+- URL Encoder
 
 ## Try the Tools
 
-https://bytekit.in/json-formatter.html  
-https://bytekit.in/jwt-decoder.html  
-https://bytekit.in/regex-tester.html  
+https://bytekit.in/json-formatter
+https://bytekit.in/css-formatter
+https://bytekit.in/js-formatter
+https://bytekit.in/html-formatter
+https://bytekit.in/regex-tester
+https://bytekit.in/base64-encoder
+https://bytekit.in/jwt-decoder
+https://bytekit.in/hash-generator
+https://bytekit.in/color-converter
+https://bytekit.in/url-encoder
+https://bytekit.in/markdown-previewer
+https://bytekit.in/css-minifier
+https://bytekit.in/image-resizer
+https://bytekit.in/http-request-builder
+https://bytekit.in/json-comparison
+https://bytekit.in/pdf-editor
+https://bytekit.in/xml-tools
 
 ## Features
 
